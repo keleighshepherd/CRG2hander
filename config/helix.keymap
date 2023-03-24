@@ -36,7 +36,7 @@ As such, those are in use within the default layer at this time.*/
        &kp LSHFT   &trans  &kp W    &kp E    &kp O   &kp LSHFT                                    &kp LSHFT  &kp P    &kp RBKT &trans  &trans  &kp LSHFT
        &trans    &trans  &trans   &trans   &trans  &kp G                                          &kp HASH   &trans   &trans   &trans  &trans   &trans
        &kp X     &kp Z   &kp L    &kp K    &kp J   &trans  &kp A                           &kp A   &trans    &kp S    &kp D     &kp F   &kp G    &kp H
-       &kp C     &kp V   &kp B    &kp M    &kp M   &trans  &trans                         &trans  &trans &trans &trans  &trans   &trans   &trans
+       &kp C     &kp V   &kp B    &kp M    &kp M   &trans  &trans                         &trans  &trans &kp COMMA &kp PERIOD &kp FSLH &kp SEMI &kp SQT
                      >;
               };
               lower_layer {
