@@ -33,8 +33,8 @@ As such, those are in use within the default layer at this time.*/
  // | ADJUST |  ESC   |  ALT   |  LGUI  | EISUU  | LOWER  | SPACE  |                    |  SPACE | RAISE  |  KANA  |  LEFT  |  DOWN  |  UP    |  RIGHT |
                      bindings = <
        &kp LBKT  &trans  &kp Q   &kp W    &kp E    &kp R                                           &kp R     &kp T    &kp Y    &kp U   &trans  &kp LBKT
-       &kp LSHFT   &trans  &kp W    &kp I    &kp O   &kp LSHFT                                    &kp LSHFT  &kp P    &kp RBKT &trans  &trans  &kp LSHFT
-       &trans    &trans  &trans   &trans   &trans  &kp G                                          &kp HASH   &trans   &trans   &trans  &trans   &trans
+       &kp LSHFT   &trans  &kp W    &kp I    &kp O   &kp G                                    &kp HASH  &kp P    &kp RBKT &trans  &trans  &kp LSHFT
+       &trans    &trans  &trans   &trans   &trans  &kp LSHFT                                          &kp LSHFT   &trans   &trans   &trans  &trans   &trans
        &kp X     &kp Z   &kp L    &kp K    &kp J   &trans  &kp A                           &kp A   &trans    &kp S    &kp D     &kp F   &kp BSLH    &kp H
        &kp C     &kp V   &kp B    &kp N    &kp M   &trans  &trans                         &trans  &trans &kp COMMA &kp PERIOD &kp FSLH &kp SEMI &kp SQT
                      >;
