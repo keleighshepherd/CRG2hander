@@ -32,7 +32,7 @@ As such, those are in use within the default layer at this time.*/
  // |  SHIFT |   Z    |   X    |   C    |   V    |   B    |  LBKT  |                    |  RBKT  |   N    |   M    |   ,    |   .    |   /    |  RET   |
  // | ADJUST |  ESC   |  ALT   |  LGUI  | EISUU  | LOWER  | SPACE  |                    |  SPACE | RAISE  |  KANA  |  LEFT  |  DOWN  |  UP    |  RIGHT |
                      bindings = <
-       &kp LBKT  &trans  &kp Q   &kp W    &kp E    &kp R                                           &kp R     &kp T    &kp Y    &kp U   &trans  &kp LBKT
+       &kp LBKT  &kp Z  &kp Q   &kp W    &kp E    &kp R                                           &kp R     &kp T    &kp Y    &kp U   &kp D  &kp LBKT
        &kp LSHFT   &trans  &kp W    &kp I    &kp O   &kp G                                    &kp HASH  &kp P    &kp RBKT &trans  &trans  &kp LSHFT
        &trans    &trans  &trans   &trans   &trans  &kp LSHFT                                          &kp LSHFT   &trans   &trans   &trans  &trans   &trans
        &kp X     &kp Z   &kp L    &kp K    &kp J   &trans  &kp A                           &kp A   &trans    &kp S    &kp D     &kp F   &kp BSLH    &kp H
